@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZ/cc4RD/zxk1m8B5kp5+wL3F7+KGz08tm2A4TW+LEb7LHsRcknX7km0cJ3SyFlcpZP4WCXsKY1ROvIFl0QpEA==",
+  "success": true,
+  "projectFilePath": "D:\\2. WorkSpace\\eSoftAssigment\\eSoftCRMAPI\\eSoftCRMAPI\\ES.CRM.Domain\\ES.CRM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

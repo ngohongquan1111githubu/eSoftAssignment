@@ -1,0 +1,25 @@
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.deps.json
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.pdb
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.csproj.AssemblyReference.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.AssemblyInfoInputs.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.AssemblyInfo.cs
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\refint\ES.CRM.Domain.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.pdb
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ref\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.deps.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\bin\Debug\net7.0\ES.CRM.Domain.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.csproj.AssemblyReference.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.AssemblyInfoInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.AssemblyInfo.cs
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.csproj.CoreCompileInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.sourcelink.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\refint\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ES.CRM.Domain.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.Domain\obj\Debug\net7.0\ref\ES.CRM.Domain.dll

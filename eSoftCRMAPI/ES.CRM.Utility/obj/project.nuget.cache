@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EUa39jRtBA5TNAy2FnUsGUmlr1hkblVRdERY6+fmCJtNprk7x6Utb+xfyuO0qOCwrbAxvt7dOfFZ+ziEiazpA==",
+  "success": true,
+  "projectFilePath": "D:\\2. WorkSpace\\eSoftAssigment\\eSoftCRMAPI\\eSoftCRMAPI\\ES.CRM.Utility\\ES.CRM.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

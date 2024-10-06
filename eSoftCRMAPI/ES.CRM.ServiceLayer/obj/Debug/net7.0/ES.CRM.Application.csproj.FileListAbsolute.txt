@@ -1,0 +1,28 @@
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.deps.json
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.pdb
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.csproj.AssemblyReference.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.AssemblyInfoInputs.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.AssemblyInfo.cs
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\refint\ES.CRM.Application.dll
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.pdb
+D:\WorkSpace\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ref\ES.CRM.Application.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.deps.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Application.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\bin\Debug\net7.0\ES.CRM.Domain.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.csproj.AssemblyReference.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.AssemblyInfoInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.AssemblyInfo.cs
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.csproj.CoreCompileInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.sourcelink.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.csproj.CopyComplete
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\refint\ES.CRM.Application.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ES.CRM.Application.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\ES.CRM.ServiceLayer\obj\Debug\net7.0\ref\ES.CRM.Application.dll

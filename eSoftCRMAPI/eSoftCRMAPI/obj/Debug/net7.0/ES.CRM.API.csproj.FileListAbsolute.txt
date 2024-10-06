@@ -1,0 +1,86 @@
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.AssemblyReference.cache
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.AssemblyInfoInputs.cache
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.AssemblyInfo.cs
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.CoreCompileInputs.cache
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\appsettings.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.exe
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.deps.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.runtimeconfig.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.pdb
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Application.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Domain.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Domain.pdb
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Application.pdb
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.ES.CRM.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ES.CRM.API.props
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ES.CRM.API.props
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ES.CRM.API.props
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\scopedcss\bundle\ES.CRM.API.styles.css
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.CopyComplete
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\refint\ES.CRM.API.dll
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.pdb
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.genruntimeconfig.cache
+D:\WorkSpace\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ref\ES.CRM.API.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\appsettings.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.exe
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.deps.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.runtimeconfig.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.API.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\FluentValidation.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Application.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Domain.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Domain.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\bin\Debug\net7.0\ES.CRM.Application.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.AssemblyReference.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.AssemblyInfoInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.AssemblyInfo.cs
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.CoreCompileInputs.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.MvcApplicationPartsAssemblyInfo.cs
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.MvcApplicationPartsAssemblyInfo.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.sourcelink.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.ES.CRM.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ES.CRM.API.props
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ES.CRM.API.props
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ES.CRM.API.props
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\scopedcss\bundle\ES.CRM.API.styles.css
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.csproj.CopyComplete
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\refint\ES.CRM.API.dll
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.pdb
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ES.CRM.API.genruntimeconfig.cache
+D:\2. WorkSpace\eSoftAssigment\eSoftCRMAPI\eSoftCRMAPI\eSoftCRMAPI\obj\Debug\net7.0\ref\ES.CRM.API.dll

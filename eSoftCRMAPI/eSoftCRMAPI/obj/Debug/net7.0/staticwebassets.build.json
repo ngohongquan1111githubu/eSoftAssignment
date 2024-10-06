@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MR1qCC/4IOHlBa43p8al5PjefbC+ueAFWAqp6TPWtDk=",
+  "Source": "ES.CRM.API",
+  "BasePath": "_content/ES.CRM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
